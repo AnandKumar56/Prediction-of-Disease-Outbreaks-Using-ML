@@ -70,9 +70,6 @@ python app.py
 ## 👥 Contributors
 - **Anand Kumar Dalwaie** ([@AnandKumar56](https://github.com/AnandKumar56))
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ---
 🔗 **GitHub Repository:** [Prediction of Disease Outbreaks Using ML](https://github.com/AnandKumar56/Prediction-of-Disease-Outbreaks-Using-ML)
 
