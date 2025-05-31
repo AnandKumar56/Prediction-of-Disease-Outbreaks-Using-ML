@@ -67,9 +67,3 @@ python app.py
 - Implement **real-time data ingestion** from APIs.
 - Develop a **mobile-friendly dashboard** for visualization.
 
-## 👥 Contributors
-- **Anand Kumar Dalwaie** ([@AnandKumar56](https://github.com/AnandKumar56))
-
----
-🔗 **GitHub Repository:** [Prediction of Disease Outbreaks Using ML](https://github.com/AnandKumar56/Prediction-of-Disease-Outbreaks-Using-ML)
-
