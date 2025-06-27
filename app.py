@@ -176,7 +176,7 @@ elif selected == "Parkinson Disease Prediction":
 
         user_input = [float(x) for x in user_input]
 
-        parkinsons_prediction = parkinson_model.predict([user_input])
+        parkinsons_prediction = parkinsons_model.predict([user_input])
 
         if parkinsons_prediction[0] == 1:
             parkinsons_diagnosis = "The person has Parkinson's disease"
