@@ -1,0 +1,12 @@
+.venv/
+.env/
+__pycache__/
+.devcontainer/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
